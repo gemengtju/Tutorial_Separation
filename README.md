@@ -8,6 +8,8 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 :heavy_check_mark: [WSJ0-2mix] [[Dataset Link]](https://)
 
+:heavy_check_mark: [WSJ0-2mix-extr] [[Dataset Link]](https://github.com/xuchenglin28/speaker_extraction)
+
 :heavy_check_mark: [WHAM & WHAMR] [[Dataset Link]](http://wham.whisper.ai/)
 
 :heavy_check_mark: [CHIME5 & CHIME6 Challenge] [[Dataset Link]](https://chimechallenge.github.io/chime6/)
