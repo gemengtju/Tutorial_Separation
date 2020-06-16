@@ -109,7 +109,17 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 # Speaker Extraction
 
 
-:heavy_check_mark: [Multi-modal Multi-channel Target Speech Separation, Rongzhi Guo, J-STSP 2020] [[Paper]](https://arxiv.org/pdf/2003.07032.pdf)
+:heavy_check_mark: [Single channel target speaker extraction and recognition with speaker beam, Marc Delcroix, ICASSP 2018] [[Paper]](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0005554.pdf)
+
+:heavy_check_mark: [Optimization of Speaker Extraction Neural Network with Magnitude and Temporal Spectrum Approximation Loss, Chenglin Xu, ICASSP 2019] [[Paper]](https://arxiv.org/pdf/1903.09952.pdf)
+
+:heavy_check_mark: [Time-domain speaker extraction network, Chenglin Xu, ASRU 2019] [[Paper]](https://arxiv.org/pdf/2004.14762.pdf)
+
+:heavy_check_mark: [SpEx: Multi-Scale Time Domain Speaker Extraction Network, Chenglin Xu, TASLP 2020] [[Paper]](https://arxiv.org/pdf/2004.08326.pdf)
+
+:heavy_check_mark: [Improving speaker discrimination of target speech extraction with time-domain SpeakerBeam, Marc Delcroix, ICASSP 2020] [[Paper]](https://arxiv.org/pdf/2004.08326.pdf)
+
+:heavy_check_mark: [SpEx+: A Complete Time Domain Speaker Extraction Network, Meng Ge] [[Paper]](https://arxiv.org/pdf/2005.04686.pdf)
 
 --------------
 
