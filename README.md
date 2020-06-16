@@ -168,6 +168,10 @@ Speech separation (SS) and speaker extraction (SE) on the WSJ0-2mix dataset.
 | SS  | WA-MISI-5  | 32.9M  | 13.1  | 12.6   | 
 | SS  | BLSTM-TasNet  | 23.6M  | 13.6  | 13.2   | 
 | SS  | Conv-TasNet  | 5.1M  | 15.6  | 15.3   | 
-| SS  | DPRNN-TasNet  | 2.6M  | 19.0  | 18.8   | 
 | SE  | SpEx  | 10.8M  | 17.0  | 16.6   | 
 | SE  | SpEx+  | 13.3M  | 17.6  | 17.4   | 
+| SS  | DeepCASA  | 12.8M  | 18.0  | 17.7   | 
+| SS  | FurcaNeXt  | 51.4M  | 18.4  | -   | 
+| SS  | DPRNN-TasNet  | 2.6M  | 19.0  | 18.8   | 
+| SS  | Wavesplit  | -  | 19.2  | 19.0   | 
+| SS  | Wavesplit + Dynamic mixing  | -  | 20.6  | 20.4   | 
