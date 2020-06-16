@@ -120,7 +120,7 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 :heavy_check_mark: [Improving speaker discrimination of target speech extraction with time-domain SpeakerBeam, Marc Delcroix, ICASSP 2020] [[Paper]](https://arxiv.org/pdf/2004.08326.pdf)
 
-:heavy_check_mark: [SpEx+: A Complete Time Domain Speaker Extraction Network, Meng Ge] [[Paper]](https://arxiv.org/pdf/2005.04686.pdf)
+:heavy_check_mark: [SpEx+: A Complete Time Domain Speaker Extraction Network, Meng Ge, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2005.04686.pdf)
 
 --------------
 
