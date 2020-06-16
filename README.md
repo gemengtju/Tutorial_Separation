@@ -154,7 +154,20 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 # Current Separation Results on WSJ0-2mix
 
+Speech separation (SS) and speaker extraction (SE) on the WSJ0-2mix dataset.
+
 |  Task | Methods  | Model Size  | SDRi  | SI-SDRi  |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-| 128  | 40  | 128  | 256  |128   | 
-| 128  | 40  | 128  | 256  |128   | 
+| SS  | DPCL++  | 13.6M  | -  | 10.8   | 
+| SS  | uPIT-BLSTM-ST  | 92.7M  | 10.0  | -   | 
+| SS  | DANet  | 9.1M  | -  | 10.5   | 
+| SS  | cuPIT-Grid-RD  | 53.2M  | 10.2  | -   | 
+| SS  | SDC-G-MTL  | 53.9M  | 10.5  | -   | 
+| SS  | CBLDNN-GAT  | 39.5M  | 11.0  | -   | 
+| SS  | Chimera++  | 32.9M  | 12.0  | 11.5   | 
+| SS  | WA-MISI-5  | 32.9M  | 13.1  | 12.6   | 
+| SS  | BLSTM-TasNet  | 23.6M  | 13.6  | 13.2   | 
+| SS  | Conv-TasNet  | 5.1M  | 15.6  | 15.3   | 
+| SS  | DPRNN-TasNet  | 2.6M  | 19.0  | 18.8   | 
+| SE  | SpEx  | 10.8M  | 17.0  | 16.6   | 
+| SE  | SpEx+  | 13.3M  | 17.6  | 17.4   | 
