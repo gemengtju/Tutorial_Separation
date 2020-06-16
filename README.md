@@ -92,6 +92,13 @@ This repository contains papers and tools for speech separation task
 
 --------------
 
+# Speaker Extraction
+
+
+:heavy_check_mark: [Multi-modal Multi-channel Target Speech Separation, Rongzhi Guo, J-STSP 2020] [[Paper]](https://arxiv.org/pdf/2003.07032.pdf)
+
+--------------
+
 # Evaluation index
 
 :heavy_check_mark: [Performance measurement in blind audio sourceseparation, Emmanuel Vincent et al., TASLP 2004] [[Paper]](https://hal.inria.fr/inria-00544230/document)
