@@ -1,6 +1,20 @@
-# Paper list for speech separation based on deep learning
+# Speech separation based on deep learning including datasets, papers, codes and tools
 
-This repository contains papers and tools for speech separation task
+This repository summarizes the datasets, papers and tools for speech separation and speaker extraction task. 
+
+# Dataset
+
+:heavy_check_mark: [WSJ0] [[Dataset Link]](https://catalog.ldc.upenn.edu/LDC93S6A)
+
+:heavy_check_mark: [WSJ0-2mix] [[Dataset Link]](https://)
+
+:heavy_check_mark: [WHAM & WHAMR] [[Dataset Link]](http://wham.whisper.ai/)
+
+:heavy_check_mark: [CHIME5 & CHIME6 Challenge] [[Dataset Link]](https://chimechallenge.github.io/chime6/)
+
+:heavy_check_mark: [AudioSet] [[Dataset Link]](https://research.google.com/audioset/download.html)
+
+--------------
 
 # Pure Speech Separation
 
