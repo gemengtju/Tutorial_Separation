@@ -150,5 +150,9 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 :heavy_check_mark: [Speech Separation, Hung-yi Lee, 2020] [[Video]](https://www.youtube.com/watch?v=tovg5ZxNgIo&t=8s) [[Slide]](http://speech.ee.ntu.edu.tw/~tlkagk/courses/DLHLP20/SP%20(v3).pdf)
 
+### Current Separation Results on WSJ0-2mix
 
-> I may not be able to get all the articles completely. So if you have an excellent essay or tutorial, you can update it in my format. At the same time, if you think the repository meets your needs, please give a star or fork, thank you.
+|  Task | Methods  | Model Size  | SDRi  | SI-SDRi  |
+| :------------: | :------------: | :------------: | :------------: | :------------: |
+| 128  | 40  | 128  | 256  |128   | 
+| 128  | 40  | 128  | 256  |128   | 
