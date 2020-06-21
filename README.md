@@ -140,7 +140,7 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 # Multi-channel Speech Separation and Speaker Extraction
 
-:heavy_check_mark: [Single channel target speaker extraction and recognition with speaker beam, Marc Delcroix, ICASSP 2018] [[Paper]](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0005554.pdf)
+:heavy_check_mark: [MIMO-SPEECH: End-to-End Multi-Channel Multi-Speaker Speech Recognition, Xuankai Chang et al., ASRU 2020] [[Paper]](https://arxiv.org/pdf/1910.06522.pdf)
 
 --------------
 
@@ -154,7 +154,7 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 # Video Tutorial
 
-:heavy_check_mark: [MIMO-SPEECH: End-to-End Multi-Channel Multi-Speaker Speech Recognition, Xuankai Chang et al., ASRU 2020] [[Paper]](https://arxiv.org/pdf/1910.06522.pdf)
+:heavy_check_mark: [Speech Separation, Hung-yi Lee, 2020] [[Video (Subtitle)]](https://www.bilibili.com/video/BV1Cf4y1y7FN?from=search&seid=17392360823608929388) [[Video]](https://www.youtube.com/watch?v=tovg5ZxNgIo&t=8s) [[Slide]](http://speech.ee.ntu.edu.tw/~tlkagk/courses/DLHLP20/SP%20(v3).pdf)
 
 --------------
 
