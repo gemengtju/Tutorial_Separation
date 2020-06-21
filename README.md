@@ -162,9 +162,9 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 :heavy_check_mark: [Speech Separation, Hung-yi Lee, 2020] [[Video (Subtitle)]](https://www.bilibili.com/video/BV1Cf4y1y7FN?from=search&seid=17392360823608929388) [[Video]](https://www.youtube.com/watch?v=tovg5ZxNgIo&t=8s) [[Slide]](http://speech.ee.ntu.edu.tw/~tlkagk/courses/DLHLP20/SP%20(v3).pdf)
 
-:heavy_check_mark: [Audio Source Separation and Speech Enhancement, Emmanuel Vincent, 2018] [[Book]]()
+:heavy_check_mark: [Audio Source Separation and Speech Enhancement, Emmanuel Vincent, 2018] [[Book]](https://github.com/gemengtju/Tutorial_Separation/tree/master/book)
 
-:heavy_check_mark: [Audio Source Separation, Shoji Makino, 2018] [[Book]]()
+:heavy_check_mark: [Audio Source Separation, Shoji Makino, 2018] [[Book]](https://github.com/gemengtju/Tutorial_Separation/tree/master/book)
 
 --------------
 
