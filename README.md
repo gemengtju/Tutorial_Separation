@@ -108,8 +108,6 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 :heavy_check_mark: [Co-Separating Sounds of Visual Objects, Ruohan Gao, ICCV 2019] [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Co-Separating_Sounds_of_Visual_Objects_ICCV_2019_paper.pdf) [[Code]](https://github.com/rhgao/co-separation)
 
-:heavy_check_mark: [Multi-modal Multi-channel Target Speech Separation, Rongzhi Guo, J-STSP 2020] [[Paper]](https://arxiv.org/pdf/2003.07032.pdf)
-
 --------------
 
 # Speaker Extraction
