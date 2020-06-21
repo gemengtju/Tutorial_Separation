@@ -153,6 +153,7 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 :heavy_check_mark: [Speech synthesis from neural decoding of spoken sentences, Gopala K. Anumanchipalli, Nature 2019] [[Paper]](https://www.univie.ac.at/mcogneu/lit/anumanchipalli-19.pdf)
 
 :heavy_check_mark: [Towards reconstructing intelligible speech from the human auditory cortex, HassanAkbari, Scientific Reports 2019] [[Paper]](https://www.nature.com/articles/s41598-018-37359-z.pdf)
+
 --------------
 
 # Common Toolkits
