@@ -144,6 +144,12 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 --------------
 
+# Common Toolkits
+
+:heavy_check_mark: [Asteroid: the PyTorch-based audio source separation toolkit for researchers, Manuel Pariente et al., ICASSP 2020] [[Tool Link]](https://github.com/mpariente/asteroid)
+
+--------------
+
 # Evaluation index
 
 :heavy_check_mark: [Performance measurement in blind audio sourceseparation, Emmanuel Vincent et al., TASLP 2004] [[Paper]](https://hal.inria.fr/inria-00544230/document)
@@ -160,7 +166,7 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 # Current Separation Results on WSJ0-2mix
 
-Speech separation (SS) and speaker extraction (SE) on the WSJ0-2mix dataset.
+Speech separation (SS) and speaker extraction (SE) on the WSJ0-2mix (8k, min) dataset.
 
 |  Task | Methods  | Model Size  | SDRi  | SI-SDRi  |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
