@@ -12,6 +12,12 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 :heavy_check_mark: [WHAM & WHAMR] [[Dataset Link]](http://wham.whisper.ai/)
 
+:heavy_check_mark: [LibriMix] [[Dataset Link]](https://github.com/JorisCos/LibriMix)
+
+:heavy_check_mark: [SparseLibriMix] [[Dataset Link]](https://github.com/popcornell/SparseLibriMix)
+
+:heavy_check_mark: [VCTK-2Mix] [[Dataset Link]](https://github.com/JorisCos/VCTK-2Mix)
+
 :heavy_check_mark: [CHIME5 & CHIME6 Challenge] [[Dataset Link]](https://chimechallenge.github.io/chime6/)
 
 :heavy_check_mark: [AudioSet] [[Dataset Link]](https://research.google.com/audioset/download.html)
