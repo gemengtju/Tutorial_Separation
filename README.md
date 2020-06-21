@@ -142,6 +142,19 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 --------------
 
+# Speech Separation based on Brain Studies
+
+:heavy_check_mark: [Attentional Selection in a Cocktail Party Environment Can Be Decoded from Single-Trial EEG, James, Cerebral Cortex 2012] [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481604/pdf/bht355.pdf)
+
+:heavy_check_mark: [Selective cortical representation of attended speaker in multi-talker speech perception, Nima Mesgarani, Nature 2012] [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3870007/pdf/nihms445767.pdf)
+
+:heavy_check_mark: [Neural decoding of attentional selection in multi-speaker environments without access to clean sources, James, Journal of Neural Engineering 2017] [[Paper]](https://europepmc.org/article/pmc/pmc5805380#free-full-text)
+
+:heavy_check_mark: [Speech synthesis from neural decoding of spoken sentences, Gopala K. Anumanchipalli, Nature 2019] [[Paper]](https://www.univie.ac.at/mcogneu/lit/anumanchipalli-19.pdf)
+
+:heavy_check_mark: [Towards reconstructing intelligible speech from the human auditory cortex, HassanAkbari, Scientific Reports 2019] [[Paper]](https://www.nature.com/articles/s41598-018-37359-z.pdf)
+--------------
+
 # Common Toolkits
 
 :heavy_check_mark: [Asteroid: the PyTorch-based audio source separation toolkit for researchers, Manuel Pariente et al., ICASSP 2020] [[Tool Link]](https://github.com/mpariente/asteroid)
