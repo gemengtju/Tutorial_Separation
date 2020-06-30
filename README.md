@@ -27,6 +27,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Audio Source Separation, Shoji Makino, 2018] [[Book]](https://github.com/gemengtju/Tutorial_Separation/tree/master/book)
 
+- [Overview Slides] [[Slides]](https://github.com/gemengtju/Tutorial_Separation/tree/master/slides)
 
 ## Datasets
 
