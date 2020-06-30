@@ -152,6 +152,17 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 :heavy_check_mark: [Co-Separating Sounds of Visual Objects, Ruohan Gao, ICCV 2019] [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Co-Separating_Sounds_of_Visual_Objects_ICCV_2019_paper.pdf) [[Code]](https://github.com/rhgao/co-separation)
 
+### Multi-channel Speech Separation
+
+:heavy_check_mark: [FaSNet: Low-latency Adaptive Beamforming for Multi-microphone Audio Processing, Yi Luo , Arxiv 2019] [[Paper]](https://arxiv.org/abs/1909.13387)
+
+:heavy_check_mark: [MIMO-SPEECH: End-to-End Multi-Channel Multi-Speaker Speech Recognition, Xuankai Chang et al., ASRU 2020] [[Paper]](https://arxiv.org/pdf/1910.06522.pdf)
+
+:heavy_check_mark: [End-to-end Microphone Permutation and Number Invariant Multi-channel Speech Separation, Yi Luo et al., ICASSP 2020] [[Paper]](https://arxiv.org/pdf/1910.14104.pdf) [[Code]](https://github.com/yluo42/TAC)
+
+:heavy_check_mark: [Enhancing End-to-End Multi-channel Speech Separation via Spatial Feature Learning, Rongzhi Guo, ICASSP 2020] [[Paper]](https://arxiv.org/pdf/2003.03927.pdf)
+
+:heavy_check_mark: [Multi-modal Multi-channel Target Speech Separation, Rongzhi Guo, J-STSP 2020] [[Paper]](https://arxiv.org/pdf/2003.07032.pdf)
 
 ### Speaker Extraction
 
@@ -168,19 +179,6 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 :heavy_check_mark: [Improving speaker discrimination of target speech extraction with time-domain SpeakerBeam, Marc Delcroix, ICASSP 2020] [[Paper]](https://arxiv.org/pdf/2004.08326.pdf)
 
 :heavy_check_mark: [SpEx+: A Complete Time Domain Speaker Extraction Network, Meng Ge, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2005.04686.pdf)
-
-
-### Multi-channel Speech Separation and Speaker Extraction
-
-:heavy_check_mark: [FaSNet: Low-latency Adaptive Beamforming for Multi-microphone Audio Processing, Yi Luo , Arxiv 2019] [[Paper]](https://arxiv.org/abs/1909.13387)
-
-:heavy_check_mark: [MIMO-SPEECH: End-to-End Multi-Channel Multi-Speaker Speech Recognition, Xuankai Chang et al., ASRU 2020] [[Paper]](https://arxiv.org/pdf/1910.06522.pdf)
-
-:heavy_check_mark: [End-to-end Microphone Permutation and Number Invariant Multi-channel Speech Separation, Yi Luo et al., ICASSP 2020] [[Paper]](https://arxiv.org/pdf/1910.14104.pdf) [[Code]](https://github.com/yluo42/TAC)
-
-:heavy_check_mark: [Enhancing End-to-End Multi-channel Speech Separation via Spatial Feature Learning, Rongzhi Guo, ICASSP 2020] [[Paper]](https://arxiv.org/pdf/2003.03927.pdf)
-
-:heavy_check_mark: [Multi-modal Multi-channel Target Speech Separation, Rongzhi Guo, J-STSP 2020] [[Paper]](https://arxiv.org/pdf/2003.07032.pdf)
 
 
 ## Tools
