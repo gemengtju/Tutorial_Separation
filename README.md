@@ -74,7 +74,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Speech synthesis from neural decoding of spoken sentences, Gopala K. Anumanchipalli, Nature 2019] [[Paper]](https://www.univie.ac.at/mcogneu/lit/anumanchipalli-19.pdf)
 
-- [Towards reconstructing intelligible speech from the human auditory cortex, HassanAkbari, Scientific Reports 2019] [[Paper]](https://www.nature.com/articles/s41598-018-37359-z.pdf)
+- [Towards reconstructing intelligible speech from the human auditory cortex, HassanAkbari, Scientific Reports 2019] [[Paper]](https://www.nature.com/articles/s41598-018-37359-z.pdf) [[Code]](http://naplab.ee.columbia.edu/naplib.html)
 
 ### Pure Speech Separation
 
@@ -96,7 +96,11 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Alternative Objective Functions for Deep Clustering, Zhong-Qiu Wang, ICASSP 2018] [[Paper]](http://www.merl.com/publications/docs/TR2018-005.pdf)
 
-- [End-to-End Speech Separation with Unfolded Iterative Phase Reconstruction Zhong-Qiu Wang et al. 2018] [[Paper]](https://arxiv.org/pdf/1804.10204.pdf)
+- [Listen, Think and Listen Again: Capturing Top-down Auditory Attention for Speaker-independent Speech Separation, Jing Shi, IJCAI 2018] [[Paper]](https://www.ijcai.org/Proceedings/2018/0605.pdf) [[Code]]()
+
+- [End-to-End Speech Separation with Unfolded Iterative Phase Reconstructioni, Zhong-Qiu Wang et al. 2018] [[Paper]](https://arxiv.org/pdf/1804.10204.pdf)
+
+- [Modeling Attention and Memory for Auditory Selection in a Cocktail Party Environment, Jiaming Xu, AAAI 2018] [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16670/15950) [[Code]](https://github.com/jacoxu/ASAM)
 
 - [Speaker-independent Speech Separation with Deep Attractor Network, Luo Yi, TASLP 2018] [[Paper]](https://arxiv.org/pdf/1707.03634) [[Code (Kai Li)]](https://github.com/JusperLee/DANet-For-Speech-Separation)
 
