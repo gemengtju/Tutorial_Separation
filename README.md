@@ -6,17 +6,19 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Tutorials](#tutorials)
 - [Datasets](#datasets)
-- [Papers](#datasets)
+- [Papers](#papers)
+    - [Speech Separation based on Brain Studies](#Speech-Separation-based-on-Brain-Studies)
     - [Pure Speech Separation](#Pure-Speech-Separation)
     - [Multi-Model Speech Separation](#Multi-Model-Speech-Separation)
-    - [Multi-channel Speech Separation](#Multi-channel-Speech-Separation)
+    - [Multi-Channel Speech Separation](#Multi-channel-Speech-Separation)
     - [Speaker Extraction](#Speaker-Extraction)
 - [Tools](#libraries)
-    - [System](#model-related)
-    - [Evaluation](#gpu-related)
+    - [System Tool](#model-related)
+    - [Evaluation Tool](#gpu-related)
 - [Results](#Current-Separation-Results-on-WSJ0-2mix)
 
-## Tutorials [Videos and Books]
+
+## Tutorials
 
 :heavy_check_mark: [Speech Separation, Hung-yi Lee, 2020] [[Video (Subtitle)]](https://www.bilibili.com/video/BV1Cf4y1y7FN?from=search&seid=17392360823608929388) [[Video]](https://www.youtube.com/watch?v=tovg5ZxNgIo&t=8s) [[Slide]](http://speech.ee.ntu.edu.tw/~tlkagk/courses/DLHLP20/SP%20(v3).pdf)
 
@@ -24,7 +26,6 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 :heavy_check_mark: [Audio Source Separation, Shoji Makino, 2018] [[Book]](https://github.com/gemengtju/Tutorial_Separation/tree/master/book)
 
---------------
 
 ## Datasets
 
@@ -58,8 +59,20 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 :heavy_check_mark: [VoxCeleb] [[Dataset Link]](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
---------------
+
 ## Papers
+
+### Speech Separation based on Brain Studies
+
+:heavy_check_mark: [Attentional Selection in a Cocktail Party Environment Can Be Decoded from Single-Trial EEG, James, Cerebral Cortex 2012] [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481604/pdf/bht355.pdf)
+
+:heavy_check_mark: [Selective cortical representation of attended speaker in multi-talker speech perception, Nima Mesgarani, Nature 2012] [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3870007/pdf/nihms445767.pdf)
+
+:heavy_check_mark: [Neural decoding of attentional selection in multi-speaker environments without access to clean sources, James, Journal of Neural Engineering 2017] [[Paper]](https://europepmc.org/article/pmc/pmc5805380#free-full-text)
+
+:heavy_check_mark: [Speech synthesis from neural decoding of spoken sentences, Gopala K. Anumanchipalli, Nature 2019] [[Paper]](https://www.univie.ac.at/mcogneu/lit/anumanchipalli-19.pdf)
+
+:heavy_check_mark: [Towards reconstructing intelligible speech from the human auditory cortex, HassanAkbari, Scientific Reports 2019] [[Paper]](https://www.nature.com/articles/s41598-018-37359-z.pdf)
 
 ### Pure Speech Separation
 
@@ -117,7 +130,6 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 :heavy_check_mark: [Deep Attention Fusion Feature for Speech Separation with End-to-End Post-ﬁlter Method, Cunhang Fan, Arxiv 2020] [[Paper]](https://arxiv.org/abs/2003.07544)
 
---------------
 
 ### Multi-Model Speech Separation
 
@@ -139,9 +151,8 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 :heavy_check_mark: [Co-Separating Sounds of Visual Objects, Ruohan Gao, ICCV 2019] [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Co-Separating_Sounds_of_Visual_Objects_ICCV_2019_paper.pdf) [[Code]](https://github.com/rhgao/co-separation)
 
---------------
 
-# Speaker Extraction
+### Speaker Extraction
 
 :heavy_check_mark: [Single channel target speaker extraction and recognition with speaker beam, Marc Delcroix, ICASSP 2018] [[Paper]](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0005554.pdf)
 
@@ -157,9 +168,8 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 :heavy_check_mark: [SpEx+: A Complete Time Domain Speaker Extraction Network, Meng Ge, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2005.04686.pdf)
 
---------------
 
-# Multi-channel Speech Separation and Speaker Extraction
+### Multi-channel Speech Separation and Speaker Extraction
 
 :heavy_check_mark: [FaSNet: Low-latency Adaptive Beamforming for Multi-microphone Audio Processing, Yi Luo , Arxiv 2019] [[Paper]](https://arxiv.org/abs/1909.13387)
 
@@ -171,21 +181,6 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 :heavy_check_mark: [Multi-modal Multi-channel Target Speech Separation, Rongzhi Guo, J-STSP 2020] [[Paper]](https://arxiv.org/pdf/2003.07032.pdf)
 
---------------
-
-# Speech Separation based on Brain Studies
-
-:heavy_check_mark: [Attentional Selection in a Cocktail Party Environment Can Be Decoded from Single-Trial EEG, James, Cerebral Cortex 2012] [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481604/pdf/bht355.pdf)
-
-:heavy_check_mark: [Selective cortical representation of attended speaker in multi-talker speech perception, Nima Mesgarani, Nature 2012] [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3870007/pdf/nihms445767.pdf)
-
-:heavy_check_mark: [Neural decoding of attentional selection in multi-speaker environments without access to clean sources, James, Journal of Neural Engineering 2017] [[Paper]](https://europepmc.org/article/pmc/pmc5805380#free-full-text)
-
-:heavy_check_mark: [Speech synthesis from neural decoding of spoken sentences, Gopala K. Anumanchipalli, Nature 2019] [[Paper]](https://www.univie.ac.at/mcogneu/lit/anumanchipalli-19.pdf)
-
-:heavy_check_mark: [Towards reconstructing intelligible speech from the human auditory cortex, HassanAkbari, Scientific Reports 2019] [[Paper]](https://www.nature.com/articles/s41598-018-37359-z.pdf)
-
---------------
 
 # Common Toolkits
 
