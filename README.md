@@ -1,6 +1,6 @@
 # Speech Separation and Extraction via Deep Learning
 
-This repository summarizes the datasets, papers, codes and tools for speech separation and speaker extraction task. 
+This repo summarizes the tutorials, datasets, papers, codes and tools for speech separation and speaker extraction task. You are kindly invited to pull requests. 
 
 ## Table of Contents
 
