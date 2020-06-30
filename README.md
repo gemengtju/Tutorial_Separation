@@ -98,7 +98,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Alternative Objective Functions for Deep Clustering, Zhong-Qiu Wang, ICASSP 2018] [[Paper]](http://www.merl.com/publications/docs/TR2018-005.pdf)
 
-- [Listen, Think and Listen Again: Capturing Top-down Auditory Attention for Speaker-independent Speech Separation, Jing Shi, IJCAI 2018] [[Paper]](https://www.ijcai.org/Proceedings/2018/0605.pdf) [[Code]]()
+- [Listen, Think and Listen Again: Capturing Top-down Auditory Attention for Speaker-independent Speech Separation, Jing Shi, IJCAI 2018] [[Paper]](https://www.ijcai.org/Proceedings/2018/0605.pdf) 
 
 - [End-to-End Speech Separation with Unfolded Iterative Phase Reconstructioni, Zhong-Qiu Wang et al. 2018] [[Paper]](https://arxiv.org/pdf/1804.10204.pdf)
 
@@ -137,6 +137,10 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 - [Deep Attention Fusion Feature for Speech Separation with End-to-End Post-ﬁlter Method, Cunhang Fan, Arxiv 2020] [[Paper]](https://arxiv.org/abs/2003.07544)
 
 - [Identify Speakers in Cocktail Parties with End-to-End Attention, Junzhe Zhu, Arxiv 2018] [[Paper]](https://arxiv.org/pdf/2005.11408v1.pdf) [[Code]](https://github.com/JunzheJosephZhu/Identify-Speakers-in-Cocktail-Parties-with-E2E-Attention)
+
+- [Sequence to Multi-Sequence Learning via Conditional Chain Mapping for Mixture Signals, Jing Shi, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2006.14150.pdf) [[Code/Demo]](https://demotoshow.github.io/)
+
+- [Speaker-Conditional Chain Model for Speech Separation and Extraction, Jing Shi, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2006.14149.pdf) [[Code/Demo]](https://shincling.github.io/)
 
 ### Multi-Model Speech Separation
 
