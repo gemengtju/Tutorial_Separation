@@ -88,7 +88,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Single-channel multi-speaker separation using deep clustering, Y Isik, Interspeech 2016] [[Paper]](https://arxiv.org/pdf/1607.02173) [[Code (Kai Li)]](https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation) [[Code (funcwj)]](https://github.com/funcwj/deep-clustering)
 
-- [Permutation invariant training of deep models for speaker-independent multi-talker speech separation, Dong Yu, ICASSP 2017] [[Paper]](https://arxiv.org/pdf/1607.00325) [[Code (Kai Li)]](https://github.com/JusperLee/UtterancePIT-Speech-Separation)
+- [Permutation invariant training of deep models for speaker-independent multi-talker speech separation, Dong Yu, ICASSP 2017] [[Paper]](https://arxiv.org/pdf/1607.00325) [[Code (Kai Li)]](https://github.com/JusperLee/UtterancePIT-Speech-Separation) [[Code (snsun)]](https://github.com/snsun/pit-speech-separation)
 
 - [Recognizing Multi-talker Speech with Permutation Invariant Training, Dong Yu, ICASSP 2017] [[Paper]](https://arxiv.org/pdf/1704.01985)
 
@@ -110,7 +110,9 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation, Luo Yi, TASLP 2019] [[Paper]](https://ieeexplore.ieee.org/iel7/6570655/6633080/08707065.pdf) [[Code (Kai Li)]](https://github.com/JusperLee/Conv-TasNet) [[Code (asteroid)]](https://github.com/mpariente/asteroid/blob/master/egs/wham/ConvTasNet)
 
-- [Divide and Conquer: A Deep CASA Approach to Talker-independent Monaural Speaker Separation, Yuzhou Liu, TASLP 2019] [[Paper]](https://arxiv.org/pdf/1904.11148) [[Code]](https://github.com/yuzhou-git/deep-casa)
+- [Divide and Conquer: A Deep CASA Approach to Talker-independent Monaural Speaker Separation, Yuzhou Liu, TASLP 2019] [[Paper]](https://arxiv.org/pdf/1904.11148) [[Code]](https://github.com/yuzhou-git/deep-casa) [[Code]](https://github.com/yuzhou-git/deep-casa)
+
+- [Improved Speech Separation with Time-and-Frequency Cross-domain Joint Embedding and Clustering, Gene-Ping Yang, Interspeech 2019] [[Paper]](https://arxiv.org/pdf/1904.07845v1.pdf) [[Code]](https://github.com/r06944010/Speech-Separation-TF2)
 
 - [Dual-path RNN: efficient long sequence modeling for time-domain single-channel speech separation, Luo Yi, Arxiv 2019] [[Paper]](https://arxiv.org/pdf/1910.06379) [[Code (Kai Li)]](https://github.com/JusperLee/Dual-Path-RNN-Pytorch)
 
@@ -141,6 +143,12 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 - [Sequence to Multi-Sequence Learning via Conditional Chain Mapping for Mixture Signals, Jing Shi, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2006.14150.pdf) [[Code/Demo]](https://demotoshow.github.io/)
 
 - [Speaker-Conditional Chain Model for Speech Separation and Extraction, Jing Shi, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2006.14149.pdf) [[Code/Demo]](https://shincling.github.io/)
+
+- [Improving Voice Separation by Incorporating End-to-end Speech Recognition, Naoya Takahashi, ICASSP 2020] [[Paper]](https://arxiv.org/pdf/1911.12928v2.pdf) [[Code]](https://github.com/pragyak412/Improving-Voice-Separation-by-Incorporating-End-To-End-Speech-Recognition)
+
+- [A Multi-Phase Gammatone Filterbank for Speech Separation via TasNet, David Ditter, ICASSP 2020] [[Paper]](https://arxiv.org/pdf/1910.11615v2.pdf) [[Code]](https://github.com/sp-uhh/mp-gtf)
+
+- [Two-Step Sound Source Separation: Training on Learned Latent Targets, Efthymios Tzinis, ICASSP 2020] [[Paper]](https://arxiv.org/pdf/1910.09804v2.pdf) [[Code (Asteroid)]](https://github.com/mpariente/asteroid) [[Code (Tzinis)]](https://github.com/etzinis/two_step_mask_learning)
 
 ### Multi-Model Speech Separation
 
