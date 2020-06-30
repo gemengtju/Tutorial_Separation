@@ -132,6 +132,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Deep Attention Fusion Feature for Speech Separation with End-to-End Post-ﬁlter Method, Cunhang Fan, Arxiv 2020] [[Paper]](https://arxiv.org/abs/2003.07544)
 
+- [Identify Speakers in Cocktail Parties with End-to-End Attention, Junzhe Zhu, Arxiv 2018] [[Paper]](https://arxiv.org/pdf/2005.11408v1.pdf) [[Code]](https://github.com/JunzheJosephZhu/Identify-Speakers-in-Cocktail-Parties-with-E2E-Attention)
 
 ### Multi-Model Speech Separation
 
@@ -152,6 +153,8 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 - [Audio-Visual Speech Separation and Dereverberation with a Two-Stage Multimodal Network, Ke Tan, Arxiv 2019] [[Paper]](https://arxiv.org/pdf/1909.07352)
 
 - [Co-Separating Sounds of Visual Objects, Ruohan Gao, ICCV 2019] [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Co-Separating_Sounds_of_Visual_Objects_ICCV_2019_paper.pdf) [[Code]](https://github.com/rhgao/co-separation)
+
+- [Face Landmark-based Speaker-Independent Audio-Visual Speech Enhancement in Multi-Talker Environments, Giovanni Morrone, Arxiv 2019] [[Paper]](https://arxiv.org/pdf/1811.02480v3.pdf) [[Code]](https://github.com/dr-pato/audio_visual_speech_enhancement)
 
 ### Multi-channel Speech Separation
 
