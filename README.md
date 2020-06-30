@@ -2,6 +2,7 @@
 
 This repo summarizes the tutorials, datasets, papers, codes and tools for speech separation and speaker extraction task. You are kindly invited to pull requests. 
 
+
 ## Table of Contents
 
 - [Tutorials](#tutorials)
@@ -12,10 +13,10 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
     - [Multi-Model Speech Separation](#Multi-Model-Speech-Separation)
     - [Multi-Channel Speech Separation](#Multi-channel-Speech-Separation)
     - [Speaker Extraction](#Speaker-Extraction)
-- [Tools](#libraries)
-    - [System Tool](#model-related)
-    - [Evaluation Tool](#gpu-related)
-- [Results](#Current-Separation-Results-on-WSJ0-2mix)
+- [Tools](#Tools)
+    - [System Tool](#System-Tools)
+    - [Evaluation Tool](#Evaluation-Tools)
+- [Results on WSJ0-2mix](#Results-on-WSJ0-2mix)
 
 
 ## Tutorials
@@ -182,31 +183,20 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 :heavy_check_mark: [Multi-modal Multi-channel Target Speech Separation, Rongzhi Guo, J-STSP 2020] [[Paper]](https://arxiv.org/pdf/2003.07032.pdf)
 
 
-# Common Toolkits
+## Tools
+
+### System Tools
 
 :heavy_check_mark: [Asteroid: the PyTorch-based audio source separation toolkit for researchers, Manuel Pariente et al., ICASSP 2020] [[Tool Link]](https://github.com/mpariente/asteroid)
 
---------------
-
-# Evaluation index
+### Evaluation Tools
 
 :heavy_check_mark: [Performance measurement in blind audio sourceseparation, Emmanuel Vincent et al., TASLP 2004] [[Paper]](https://hal.inria.fr/inria-00544230/document)
 
 :heavy_check_mark: [SDR – Half-baked or Well Done?, Jonathan Le Roux, ICASSP 2019] [[Paper]](https://arxiv.org/pdf/1811.02508)
 
---------------
 
-# Video and Book Tutorial
-
-:heavy_check_mark: [Speech Separation, Hung-yi Lee, 2020] [[Video (Subtitle)]](https://www.bilibili.com/video/BV1Cf4y1y7FN?from=search&seid=17392360823608929388) [[Video]](https://www.youtube.com/watch?v=tovg5ZxNgIo&t=8s) [[Slide]](http://speech.ee.ntu.edu.tw/~tlkagk/courses/DLHLP20/SP%20(v3).pdf)
-
-:heavy_check_mark: [Audio Source Separation and Speech Enhancement, Emmanuel Vincent, 2018] [[Book]](https://github.com/gemengtju/Tutorial_Separation/tree/master/book)
-
-:heavy_check_mark: [Audio Source Separation, Shoji Makino, 2018] [[Book]](https://github.com/gemengtju/Tutorial_Separation/tree/master/book)
-
---------------
-
-# Current Separation Results on WSJ0-2mix
+## Results on WSJ0-2mix
 
 Speech separation (SS) and speaker extraction (SE) on the WSJ0-2mix (8k, min) dataset.
 
