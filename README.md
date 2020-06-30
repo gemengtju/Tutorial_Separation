@@ -4,11 +4,23 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 ## Contents
 
+- [Tutorials](#tutorials)
+- [Datasets](#datasets)
+- [Papers](#datasets)
+    - [Recurrent Networks](#recurrent-networks)
+    - [Convolutional Networks](#convolutional-networks)
+    - [ETC](#model-zoo-etc)
+- [Libraries](#libraries)
+    - [Model related](#model-related)
+    - [GPU related](#gpu-related)
+    - [IDE related](#ide-related)
+    - [ETC](#libraries-etc)
+- [Links](#links)
 - [Tutorial](#tutorial)
 - [Dataset](#dataset)
 - [Pure Speech Separation](#Pure-Speech-Separation)
 
-## Dataset
+## Datasets
 
 :heavy_check_mark: [WSJ0] [[Dataset Link]](https://catalog.ldc.upenn.edu/LDC93S6A)
 
@@ -41,8 +53,9 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 :heavy_check_mark: [VoxCeleb] [[Dataset Link]](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
 --------------
+## Papers
 
-# Pure Speech Separation
+### Pure Speech Separation
 
 :heavy_check_mark: [Joint Optimization of Masks and Deep Recurrent Neural Networks for Monaural Source Separation, Po-Sen Huang, TASLP 2015] [[Paper]](https://arxiv.org/pdf/1502.04149) [[Code (posenhuang)]](https://github.com/posenhuang/deeplearningsourceseparation)
 
@@ -100,7 +113,7 @@ This repository summarizes the datasets, papers, codes and tools for speech sepa
 
 --------------
 
-# Multi-Model Speech Separation
+### Multi-Model Speech Separation
 
 :heavy_check_mark: [Audio-Visual Speech Enhancement Using Multimodal Deep Convolutional Neural Networks, Jen-Cheng Hou, TETCI 2017] [[Paper]](https://arxiv.org/pdf/1703.10893) [[Code]](https://github.com/avivga/audio-visual-speech-enhancement)
 
