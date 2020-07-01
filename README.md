@@ -27,7 +27,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Audio Source Separation, Shoji Makino, 2018] [[Book]](https://github.com/gemengtju/Tutorial_Separation/tree/master/book)
 
-- [Overview Papers] [[Paper (DeLiang Wang)]](https://arxiv.org/ftp/arxiv/papers/1708/1708.07524.pdf) [[Paper (Bo Xu)]](http://www.aas.net.cn/article/zdhxb/2019/2/234)
+- [Overview Papers] [[Paper (DeLiang Wang)]](https://arxiv.org/ftp/arxiv/papers/1708/1708.07524.pdf) [[Paper (Bo Xu)]](http://www.aas.net.cn/article/zdhxb/2019/2/234) [[Paper (Zafar Rafii)]](https://arxiv.org/pdf/1804.08300.pdf) [[Paper (Sharon Gannot)]](https://hal.inria.fr/hal-01414179v2/document)
 
 - [Overview Slides] [[Slides]](https://github.com/gemengtju/Tutorial_Separation/tree/master/slides)
 
