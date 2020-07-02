@@ -176,6 +176,8 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [FaceFilter: Audio-visual speech separation using still images, Soo-Whan Chung, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2005.07074.pdf)
 
+- [Awesome Audio-Visual, Github, Kranti Kumar Parida] [[Github Link]](https://github.com/krantiparida/awesome-audio-visual)
+
 ### Multi-channel Speech Separation
 
 - [FaSNet: Low-latency Adaptive Beamforming for Multi-microphone Audio Processing, Yi Luo , Arxiv 2019] [[Paper]](https://arxiv.org/abs/1909.13387)
