@@ -23,7 +23,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Speech Separation, Hung-yi Lee, 2020] [[Video (Subtitle)]](https://www.bilibili.com/video/BV1Cf4y1y7FN?from=search&seid=17392360823608929388) [[Video]](https://www.youtube.com/watch?v=tovg5ZxNgIo&t=8s) [[Slide]](http://speech.ee.ntu.edu.tw/~tlkagk/courses/DLHLP20/SP%20(v3).pdf)
 
-- [Advances in End-to-End Neural Source Separation, Yi Luo, 2020] [[Video]](https://www.shenlanxueyuan.com/open/course/62/lesson/57/liveToVideoPreview) [[Slide]]()
+- [Advances in End-to-End Neural Source Separation, Yi Luo, 2020] [[Video]](https://www.shenlanxueyuan.com/open/course/62/lesson/57/liveToVideoPreview) [[Slide]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/Advances_in_end-to-end_neural_source_separation.pdf)
 
 - [Audio Source Separation and Speech Enhancement, Emmanuel Vincent, 2018] [[Book]](https://github.com/gemengtju/Tutorial_Separation/tree/master/book)
 
@@ -31,7 +31,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Overview Papers] [[Paper (DeLiang Wang)]](https://arxiv.org/ftp/arxiv/papers/1708/1708.07524.pdf) [[Paper (Bo Xu)]](http://www.aas.net.cn/article/zdhxb/2019/2/234) [[Paper (Zafar Rafii)]](https://arxiv.org/pdf/1804.08300.pdf) [[Paper (Sharon Gannot)]](https://hal.inria.fr/hal-01414179v2/document)
 
-- [Overview Slides] [[Slides]](https://github.com/gemengtju/Tutorial_Separation/tree/master/slides)
+- [Overview Slides] [[Slide (DeLiang Wang)]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/DeLiangWang_ASRU19.pdf) [[Slide (Haizhou Li)]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/HaizhouLi_CCF.pdf) [[Slide (Meng Ge)]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/overview-GM.pdf)
 
 ## Datasets
 
