@@ -86,9 +86,9 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Complex Ratio Masking for Monaural Speech Separation, DS Williamson, TASLP 2015] [[Paper]](https://ieeexplore.ieee.org/abstract/document/7364200/)
 
-- [Deep clustering: Discriminative embeddings for segmentation and separation, JR Hershey,  ICASSP 2016] [[Paper]](https://arxiv.org/abs/1508.04306) [[Code (Kai Li)]](https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation) [[Code (funcwj)]](https://github.com/funcwj/deep-clustering) [[Code (asteroid)]](https://github.com/mpariente/asteroid/blob/master/egs/wsj0-mix/DeepClustering)
+- [Deep clustering: Discriminative embeddings for segmentation and separation, JR Hershey,  ICASSP 2016] [[Paper]](https://arxiv.org/abs/1508.04306) [[Code (Kai Li)]](https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation) [[Code (Jian Wu)]](https://github.com/funcwj/deep-clustering) [[Code (asteroid)]](https://github.com/mpariente/asteroid/blob/master/egs/wsj0-mix/DeepClustering)
 
-- [Single-channel multi-speaker separation using deep clustering, Y Isik, Interspeech 2016] [[Paper]](https://arxiv.org/pdf/1607.02173) [[Code (Kai Li)]](https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation) [[Code (funcwj)]](https://github.com/funcwj/deep-clustering)
+- [Single-channel multi-speaker separation using deep clustering, Y Isik, Interspeech 2016] [[Paper]](https://arxiv.org/pdf/1607.02173) [[Code (Kai Li)]](https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation) [[Code (Jian Wu)]](https://github.com/funcwj/deep-clustering)
 
 - [Permutation invariant training of deep models for speaker-independent multi-talker speech separation, Dong Yu, ICASSP 2017] [[Paper]](https://arxiv.org/pdf/1607.00325) [[Code (Kai Li)]](https://github.com/JusperLee/UtterancePIT-Speech-Separation) [[Code (snsun)]](https://github.com/snsun/pit-speech-separation)
 
@@ -192,7 +192,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Single channel target speaker extraction and recognition with speaker beam, Marc Delcroix, ICASSP 2018] [[Paper]](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0005554.pdf)
 
-- [VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking, Quan Wang, INTERSPEECH 2018] [[Paper]](https://arxiv.org/pdf/1810.04826.pdf) [[Code (Wujian)]](https://github.com/funcwj/voice-filter)
+- [VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking, Quan Wang, INTERSPEECH 2018] [[Paper]](https://arxiv.org/pdf/1810.04826.pdf) [[Code (Jian Wu)]](https://github.com/funcwj/voice-filter)
 
 - [Optimization of Speaker Extraction Neural Network with Magnitude and Temporal Spectrum Approximation Loss, Chenglin Xu, ICASSP 2019] [[Paper]](https://arxiv.org/pdf/1903.09952.pdf) [[Code]](https://github.com/xuchenglin28/speaker_extraction)
 
