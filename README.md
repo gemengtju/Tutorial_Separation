@@ -172,6 +172,8 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Face Landmark-based Speaker-Independent Audio-Visual Speech Enhancement in Multi-Talker Environments, Giovanni Morrone, Arxiv 2019] [[Paper]](https://arxiv.org/pdf/1811.02480v3.pdf) [[Code]](https://github.com/dr-pato/audio_visual_speech_enhancement)
 
+- [FaceFilter: Audio-visual speech separation using still images, Soo-Whan Chung, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2005.07074.pdf)
+
 ### Multi-channel Speech Separation
 
 - [FaSNet: Low-latency Adaptive Beamforming for Multi-microphone Audio Processing, Yi Luo , Arxiv 2019] [[Paper]](https://arxiv.org/abs/1909.13387)
