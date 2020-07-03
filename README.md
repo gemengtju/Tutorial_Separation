@@ -154,7 +154,13 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 ### Multi-Model Speech Separation
 
+- [Deep Audio-Visual Learning: A Survey, Hao Zhu, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2001.04758.pdf)
+
 - [Audio-Visual Speech Enhancement Using Multimodal Deep Convolutional Neural Networks, Jen-Cheng Hou, TETCI 2017] [[Paper]](https://arxiv.org/pdf/1703.10893) [[Code]](https://github.com/avivga/audio-visual-speech-enhancement)
+
+- [The Sound of Pixels, Hang Zhao, ECCV 2018] [[Paper/Demo]](http://sound-of-pixels.csail.mit.edu/)
+
+- [Learning to Separate Object Sounds by Watching Unlabeled Video, Ruohan Gao, ECCV 2018] [[Paper]](https://arxiv.org/pdf/1804.01665.pdf)
 
 - [The Conversation: Deep Audio-Visual Speech Enhancement, Triantafyllos Afouras, Interspeech 2018] [[Paper]](https://arxiv.org/pdf/1804.04121)
 
@@ -168,11 +174,19 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Time domain audio visual speech separation, Jian Wu, Arxiv 2019] [[Paper]](https://arxiv.org/pdf/1904.03760)
 
+- [Co-Separating Sounds of Visual Objects, Ruohan Gao, ICCV 2019] [[Paper]](https://arxiv.org/pdf/1904.07750.pdf)
+
+- [Recursive Visual Sound Separation Using Minus-Plus Net, Xudong Xu, ICCV 2019] [[Paper]](https://arxiv.org/pdf/1908.11602.pdf)
+
+- [The Sound of Motions, Hang Zhao, ICCV 2019] [[Paper]](https://arxiv.org/pdf/1904.05979.pdf)
+
 - [Audio-Visual Speech Separation and Dereverberation with a Two-Stage Multimodal Network, Ke Tan, Arxiv 2019] [[Paper]](https://arxiv.org/pdf/1909.07352)
 
 - [Co-Separating Sounds of Visual Objects, Ruohan Gao, ICCV 2019] [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Co-Separating_Sounds_of_Visual_Objects_ICCV_2019_paper.pdf) [[Code]](https://github.com/rhgao/co-separation)
 
 - [Face Landmark-based Speaker-Independent Audio-Visual Speech Enhancement in Multi-Talker Environments, Giovanni Morrone, Arxiv 2019] [[Paper]](https://arxiv.org/pdf/1811.02480v3.pdf) [[Code]](https://github.com/dr-pato/audio_visual_speech_enhancement)
+
+- [Music Gesture for Visual Sound Separation, Chuang Gao, CVPR 2020] [[Paper]](https://arxiv.org/pdf/2004.09476.pdf)
 
 - [FaceFilter: Audio-visual speech separation using still images, Soo-Whan Chung, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2005.07074.pdf)
 
