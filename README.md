@@ -45,6 +45,8 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [LibriMix] [[Dataset Link]](https://github.com/JorisCos/LibriMix)
 
+- [LibriCSS] [[Script]](https://github.com/chenzhuo1011/libri_css)
+
 - [SparseLibriMix] [[Dataset Link]](https://github.com/popcornell/SparseLibriMix)
 
 - [VCTK-2Mix] [[Dataset Link]](https://github.com/JorisCos/VCTK-2Mix)
