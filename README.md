@@ -43,13 +43,13 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [WHAM & WHAMR] [[Paper (WHAM)]](https://arxiv.org/pdf/1907.01160.pdf) [[Paper (WHAMR)]](https://arxiv.org/pdf/1910.10279.pdf) [[Dataset]](http://wham.whisper.ai/)
 
-- [LibriMix] [[Paper]](https://arxiv.org/pdf/2005.11262.pdf) [[Dataset]](https://github.com/JorisCos/LibriMix)
+- [LibriMix] [[Paper]](https://arxiv.org/pdf/2005.11262.pdf) [[Script]](https://github.com/JorisCos/LibriMix)
 
 - [LibriCSS] [[Paper]](https://arxiv.org/pdf/2001.11482.pdf) [[Script]](https://github.com/chenzhuo1011/libri_css)
 
-- [SparseLibriMix] [[Dataset]](https://github.com/popcornell/SparseLibriMix)
+- [SparseLibriMix] [[Script]](https://github.com/popcornell/SparseLibriMix)
 
-- [VCTK-2Mix] [[Dataset]](https://github.com/JorisCos/VCTK-2Mix)
+- [VCTK-2Mix] [[Script]](https://github.com/JorisCos/VCTK-2Mix)
 
 - [CHIME5 & CHIME6 Challenge] [[Dataset]](https://chimechallenge.github.io/chime6/)
 
@@ -63,7 +63,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [LRS2] [[Dataset]](http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)
 
-- [LRS3] [[Dataset]](http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html) [[Multi Model Data Processing Script]](https://github.com/JusperLee/LRS3-For-Speech-Separationhttps://github.com/JusperLee/LRS3-For-Speech-Separation)
+- [LRS3] [[Dataset]](http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html) [[Script]](https://github.com/JusperLee/LRS3-For-Speech-Separationhttps://github.com/JusperLee/LRS3-For-Speech-Separation)
 
 - [VoxCeleb] [[Dataset]](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
