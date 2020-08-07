@@ -156,6 +156,8 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Two-Step Sound Source Separation: Training on Learned Latent Targets, Efthymios Tzinis, ICASSP 2020] [[Paper]](https://arxiv.org/pdf/1910.09804v2.pdf) [[Code (Asteroid)]](https://github.com/mpariente/asteroid) [[Code (Tzinis)]](https://github.com/etzinis/two_step_mask_learning)
 
+- [Unsupervised Sound Separation Using Mixtures of Mixtures, Scott Wisdom, Arxiv] [[Paper]](https://arxiv.org/pdf/2006.12701.pdf)
+
 ### Multi-Model Speech Separation
 
 - [Deep Audio-Visual Learning: A Survey, Hao Zhu, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2001.04758.pdf)
@@ -220,7 +222,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [SpEx: Multi-Scale Time Domain Speaker Extraction Network, Chenglin Xu, TASLP 2020] [[Paper]](https://arxiv.org/pdf/2004.08326.pdf)
 
-- [Improving speaker discrimination of target speech extraction with time-domain SpeakerBeam, Marc Delcroix, ICASSP 2020] [[Paper]](https://arxiv.org/pdf/2004.08326.pdf)
+- [Improving speaker discrimination of target speech extraction with time-domain SpeakerBeam, Marc Delcroix, ICASSP 2020] [[Paper]](https://arxiv.org/pdf/2001.08378.pdf)
 
 - [SpEx+: A Complete Time Domain Speaker Extraction Network, Meng Ge, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2005.04686.pdf) [[Code]](https://github.com/gemengtju/SpEx_Plus/tree/master/nnet)
 
