@@ -43,9 +43,9 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [WHAM & WHAMR] [[Dataset Link]](http://wham.whisper.ai/)
 
-- [LibriMix] [[Dataset Link]](https://github.com/JorisCos/LibriMix)
+- [LibriMix] [[Paper]](https://arxiv.org/pdf/2005.11262.pdf) [[Dataset Link]](https://github.com/JorisCos/LibriMix)
 
-- [LibriCSS] [[Script]](https://github.com/chenzhuo1011/libri_css)
+- [LibriCSS] [[Paper]](https://arxiv.org/pdf/2001.11482.pdf) [[Script]](https://github.com/chenzhuo1011/libri_css)
 
 - [SparseLibriMix] [[Dataset Link]](https://github.com/popcornell/SparseLibriMix)
 
