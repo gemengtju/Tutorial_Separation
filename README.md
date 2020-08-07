@@ -35,37 +35,37 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 ## Datasets
 
-- [WSJ0] [[Dataset Link]](https://catalog.ldc.upenn.edu/LDC93S6A)
+- [WSJ0] [[Dataset]](https://catalog.ldc.upenn.edu/LDC93S6A)
 
-- [WSJ0-2mix] [[Dataset Link]](https://)
+- [WSJ0-2mix] [[Script]](https://github.com/gemengtju/Tutorial_Separation/tree/master/generation/wsj0-2mix)
 
-- [WSJ0-2mix-extr] [[Dataset Link]](https://github.com/xuchenglin28/speaker_extraction)
+- [WSJ0-2mix-extr] [[Script]](https://github.com/xuchenglin28/speaker_extraction)
 
-- [WHAM & WHAMR] [[Dataset Link]](http://wham.whisper.ai/)
+- [WHAM & WHAMR] [[Paper (WHAM)]](https://arxiv.org/pdf/1907.01160.pdf) [[Paper (WHAMR)]](https://arxiv.org/pdf/1910.10279.pdf) [[Dataset]](http://wham.whisper.ai/)
 
-- [LibriMix] [[Paper]](https://arxiv.org/pdf/2005.11262.pdf) [[Dataset Link]](https://github.com/JorisCos/LibriMix)
+- [LibriMix] [[Paper]](https://arxiv.org/pdf/2005.11262.pdf) [[Dataset]](https://github.com/JorisCos/LibriMix)
 
 - [LibriCSS] [[Paper]](https://arxiv.org/pdf/2001.11482.pdf) [[Script]](https://github.com/chenzhuo1011/libri_css)
 
-- [SparseLibriMix] [[Dataset Link]](https://github.com/popcornell/SparseLibriMix)
+- [SparseLibriMix] [[Dataset]](https://github.com/popcornell/SparseLibriMix)
 
-- [VCTK-2Mix] [[Dataset Link]](https://github.com/JorisCos/VCTK-2Mix)
+- [VCTK-2Mix] [[Dataset]](https://github.com/JorisCos/VCTK-2Mix)
 
-- [CHIME5 & CHIME6 Challenge] [[Dataset Link]](https://chimechallenge.github.io/chime6/)
+- [CHIME5 & CHIME6 Challenge] [[Dataset]](https://chimechallenge.github.io/chime6/)
 
-- [AudioSet] [[Dataset Link]](https://research.google.com/audioset/download.html)
+- [AudioSet] [[Dataset]](https://research.google.com/audioset/download.html)
 
-- [Microsoft DNS Challenge] [[Dataset Link]](https://github.com/microsoft/DNS-Challenge)
+- [Microsoft DNS Challenge] [[Dataset]](https://github.com/microsoft/DNS-Challenge)
 
-- [AVSpeech] [[Dataset Link]](https://looking-to-listen.github.io/avspeech/download.html)
+- [AVSpeech] [[Dataset]](https://looking-to-listen.github.io/avspeech/download.html)
 
-- [LRW] [[Dataset Link]](http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)
+- [LRW] [[Dataset]](http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)
 
-- [LRS2] [[Dataset Link]](http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)
+- [LRS2] [[Dataset]](http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)
 
-- [LRS3] [[Dataset Link]](http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html) [[Multi Model Data Processing Script]](https://github.com/JusperLee/LRS3-For-Speech-Separationhttps://github.com/JusperLee/LRS3-For-Speech-Separation)
+- [LRS3] [[Dataset]](http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html) [[Multi Model Data Processing Script]](https://github.com/JusperLee/LRS3-For-Speech-Separationhttps://github.com/JusperLee/LRS3-For-Speech-Separation)
 
-- [VoxCeleb] [[Dataset Link]](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
+- [VoxCeleb] [[Dataset]](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
 
 ## Papers
