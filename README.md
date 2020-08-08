@@ -216,6 +216,8 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking, Quan Wang, INTERSPEECH 2018] [[Paper]](https://arxiv.org/pdf/1810.04826.pdf) [[Code (Jian Wu)]](https://github.com/funcwj/voice-filter)
 
+- [Single-Channel Speech Extraction Using Speaker Inventory and Attention Network, Xiong Xiao et al, ICASSP 2019] [[Paper]](http://150.162.46.34:8080/icassp2019/ICASSP2019/pdfs/0000086.pdf)
+
 - [Optimization of Speaker Extraction Neural Network with Magnitude and Temporal Spectrum Approximation Loss, Chenglin Xu, ICASSP 2019] [[Paper]](https://arxiv.org/pdf/1903.09952.pdf) [[Code]](https://github.com/xuchenglin28/speaker_extraction)
 
 - [Time-domain speaker extraction network, Chenglin Xu, ASRU 2019] [[Paper]](https://arxiv.org/pdf/2004.14762.pdf)
