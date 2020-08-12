@@ -35,6 +35,8 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 ## Datasets
 
+- [Dataset Intruduciton] [[slide (Meng Ge)]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/Speech-Separation-Dataset-GM.pdf)
+
 - [WSJ0] [[Dataset]](https://catalog.ldc.upenn.edu/LDC93S6A)
 
 - [WSJ0-2mix] [[Script]](https://github.com/gemengtju/Tutorial_Separation/tree/master/generation/wsj0-2mix)
