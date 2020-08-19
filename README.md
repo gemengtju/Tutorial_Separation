@@ -35,7 +35,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 ## Datasets
 
-- [Dataset Intruduciton] [[slide (Meng Ge)]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/Speech-Separation-Dataset-GM.pdf)
+- [Dataset Intruduciton] [[Pure Speech Dataset Slide (Meng Ge)]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/Speech-Separation-Dataset-GM.pdf) [[Audio-Visual Dataset Slide (Zexu Pan)]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/AVSS_Datasets_PanZexu.pdf)
 
 - [WSJ0] [[Dataset]](https://catalog.ldc.upenn.edu/LDC93S6A)
 
