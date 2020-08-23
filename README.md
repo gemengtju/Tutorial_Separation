@@ -33,6 +33,8 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Overview Slides] [[Slide (DeLiang Wang)]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/DeLiangWang_ASRU19.pdf) [[Slide (Haizhou Li)]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/HaizhouLi_CCF.pdf) [[Slide (Meng Ge)]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/overview-GM.pdf)
 
+- [Hand Book] [[Ongoing]](https://www.overleaf.com/read/vhdjwcpyryzr)
+
 ## Datasets
 
 - [Dataset Intruduciton] [[Pure Speech Dataset Slide (Meng Ge)]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/Speech-Separation-Dataset-GM.pdf) [[Audio-Visual Dataset Slide (Zexu Pan)]](https://github.com/gemengtju/Tutorial_Separation/blob/master/slides/AVSS_Datasets_PanZexu.pdf)
