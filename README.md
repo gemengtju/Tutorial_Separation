@@ -162,6 +162,8 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Unsupervised Sound Separation Using Mixtures of Mixtures, Scott Wisdom, Arxiv] [[Paper]](https://arxiv.org/pdf/2006.12701.pdf)
 
+- [Speech Separation Based on Multi-Stage Elaborated Dual-Path Deep BiLSTM with Auxiliary Identity Loss, Ziqiang Shi, 2020] [[Paper]](https://arxiv.org/pdf/2008.03149.pdf)
+
 ### Multi-Model Speech Separation
 
 - [Deep Audio-Visual Learning: A Survey, Hao Zhu, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2001.04758.pdf)
