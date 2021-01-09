@@ -240,6 +240,7 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 ### System Tools
 
 - [Asteroid: the PyTorch-based audio source separation toolkit for researchers, Manuel Pariente et al., ICASSP 2020] [[Tool Link]](https://github.com/mpariente/asteroid)
+- [ESPnet-se: end-to-end speech enhancement and separation toolkit designed for asr integration, Chenda Li et al., arxiv] [[Paper Link]](https://arxiv.org/pdf/2011.03706.pdf)
 
 ### Evaluation Tools
 
